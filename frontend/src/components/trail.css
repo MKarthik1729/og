@@ -1,0 +1,11 @@
+.clicked {
+    background-color: blue;
+    color: white;
+  }
+  
+  .success-message {
+    color: green;
+    font-weight: bold;
+    background: blur;
+  }
+  
